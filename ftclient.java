@@ -1,7 +1,7 @@
 /*
  * ftclient.java
  * Sam Snyder
- * samuel.leason.snyder@gmail.com
+ * samuel.l.snyder@gmail.com
  * Reference: 
  *	Beej's guide: http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html
  * 	Java Networking tutorial: https://docs.oracle.com/javase/tutorial/networking/sockets/
